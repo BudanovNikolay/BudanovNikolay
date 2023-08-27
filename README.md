@@ -2,7 +2,7 @@
 
 ### I’m a data science specialist and devoloper in ML
 ### Languages and Tools<br>
-Python, SQL, pandas, numpy, matplotlib, sklearn, PyTorch, scipy, pySpark
+SQL, PostgreSQL, ORACLE, Python, Pyspark, Jupyter Notebook, Scikit-learn, Pandas, Numpy, LightGBM, PyTorch, Matplotlib
 
 
 <!--
