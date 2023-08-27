@@ -1,4 +1,4 @@
-### **Hi there, I'm Vladimir Levin - aka opa_oz** 👋
+### Hi there, I'm Nikolay Budanov - aka zeyn_77 👋
 
 ### I’m a data science specialist and devoloper in ML
 ### Languages and Tools:<br>
