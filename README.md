@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## I’m a data science specialist and devoloper in ML
-## Languages and Tools<br>
+### I’m a data science specialist and devoloper in ML
+### Languages and Tools<br>
 Python, SQL, pandas, numpy, matplotlib, sklearn, PyTorch, scipy, pySpark
 
 
