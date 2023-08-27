@@ -1,6 +1,8 @@
 ## Hi there, I'm Nikolay Budanov - aka zeyn_77 👋
 
 ##  I’m a data science specialist and devoloper in ML
+I from Moscow and I'm studying in MPEI - Moscow Power Engineering Institute.<br>
+My goal it's will be a perfecrt specialist of data scince in financial technologies<br>
 ### Languages and Tools:<br>
 - 🔭 SQL, PostgreSQL, ORACLE, Python, Pyspark, Jupyter Notebook, Scikit-learn, Pandas, Numpy, LightGBM, PyTorch, Matplotlib
 
