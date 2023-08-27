@@ -1,4 +1,4 @@
-### Hi there 👋
+### **Hi there, I'm Vladimir Levin - aka opa_oz** 👋
 
 ### I’m a data science specialist and devoloper in ML
 ### Languages and Tools:<br>
