@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I’m a data science specialist and devoloper in ML
-### Languages and Tools<br>
+### Languages and Tools:<br>
 SQL, PostgreSQL, ORACLE, Python, Pyspark, Jupyter Notebook, Scikit-learn, Pandas, Numpy, LightGBM, PyTorch, Matplotlib
 
 
