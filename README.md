@@ -1,13 +1,17 @@
 ### Hi there 👋
 
+## I’m a data science specialist and devoloper in ML
+Languages and Tools
+Python, SQL, pandas, numpy, matplotlib, sklearn, PyTorch, scipy, pySpark
+
+
 <!--
 **BudanovNikolay/BudanovNikolay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-## I’m a data science specialist and devoloper in ML
-Languages and Tools
-Python, SQL, pandas, numpy, matplotlib, sklearn, PyTorch, scipy, pySpark
+
+
 - 🔭 I’m a data science specialist
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
