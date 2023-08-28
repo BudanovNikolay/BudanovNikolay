@@ -2,10 +2,10 @@
 ##  I’m a data science specialist and devoloper in ML
 - 📖 I’m currently on my last year of BA in Moscow Power Engineering Institute and taking courses in Yandex practicum
 - 📈 Also I am a trader on the stock exchange with three years of experience
-- 📍 My goal is to become a professional in the field of data science using FinTech
+- 📍 My goal is to become a senior FinTech data science specialist
 ###  Languages and Tools:<br>
 - 🔭 SQL, PostgreSQL, ORACLE, Python, Pyspark, Jupyter Notebook, Scikit-learn, Pandas, Numpy, LightGBM, PyTorch, Matplotlib
-## Conect with me
+## Contact with me
 n.budanov02@gmail.com<br>
 https://vk.com/id270851771<br>
 https://t.me/Zeyn_77<br>
