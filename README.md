@@ -4,7 +4,7 @@
 - 📈 Also I am a trader on the stock exchange with two years of experience
 - 📍 My goal is to become a senior data science specialist
 ###  Languages and Tools:<br>
-- 🔭 SQL, PostgreSQL, ORACLE, Python, Pyspark, Jupyter Notebook, Scikit-learn, Pandas, Numpy, LightGBM, PyTorch, Matplotlib, tensorflow, keras
+- 🔭 SQL, PostgreSQL, ORACLE, Python, Pyspark, Jupyter Notebook, Scikit-learn, Pandas, Numpy, LightGBM, PyTorch, Matplotlib, Tensorflow, Keras
 ## Contact with me
 n.budanov02@gmail.com<br>
 https://vk.com/id270851771<br>
